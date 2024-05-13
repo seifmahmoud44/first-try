@@ -102,3 +102,7 @@ a {
     padding: 0 10px;
   }
 }
+
+.new {
+  background-color: red;
+}
